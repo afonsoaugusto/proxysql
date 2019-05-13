@@ -1,0 +1,4 @@
+.vagrant
+proxysql-docker
+data/mysql-master/*
+data/mysql-slave/*
